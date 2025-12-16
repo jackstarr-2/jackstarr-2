@@ -28,5 +28,5 @@ I'm a Business Analytics & Information Systems student at the
 ---
 
 ## 🔗 Links
-- 🌐 Portfolio: https://jackstarr.me  
+- 🌐 Portfolio: https://www.jackstarr.me  
 - 💼 LinkedIn: https://www.linkedin.com/in/jack-starr-61786b1b7/
