@@ -1,16 +1,32 @@
-## Hi there 👋
+# Hi, I'm Jack 👋
 
-<!--
-**jackstarr-2/jackstarr-2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Business Analytics & Information Systems student at the  
+**University of Iowa – Tippie College of Business**.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧠 Current Skills
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-003B57?logo=postgresql&logoColor=white)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?logo=tableau&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
+
+
+---
+
+## 📚 Current Coursework
+- Digital Product Management  
+- Business Analytics and Information Systems Capstone
+
+---
+
+## 📊 Featured Projects
+- **Portfolio Website** – Personal site hosted on Azure  
+- **Baseball Analytics Project** – MLB data analysis & forecasting  
+
+---
+
+## 🔗 Links
+- 🌐 Portfolio: https://jackstarr.me  
+- 💼 LinkedIn: https://www.linkedin.com/in/jack-starr-61786b1b7/
